@@ -101,18 +101,9 @@ This project aims to analyze borrower demographics, financial conditions, credit
 ```text
 loan-approval-financial-risk-analysis/
 ├── README.md
-├── Loan_Approval_Financial_Risk_Analysis.ipynb
-├── Loan_Approval_Report.pdf
-├── Loan.csv
-├── images/
-│   ├── loan_approval_distribution.png
-│   ├── credit_score_analysis.png
-│   ├── annual_income_analysis.png
-│   ├── risk_group_analysis.png
-│   ├── interest_rate_analysis.png
-│   ├── correlation_analysis.png
-│   └── feature_importance.png
-└── requirements.txt
+├── loan_approval_financial_risk_analysis.ipynb
+├── loan_approval_financial_risk_analysis_report.pdf
+├── loan_approval_financial_risk_data.csv
 ```
 
 ---
