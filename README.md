@@ -99,7 +99,7 @@ This project aims to analyze borrower demographics, financial conditions, credit
 ## 📂 Project Structure
 
 ```text
-loan-approval-financial-risk-analysis/
+credit-risk-loan-approval-analysis/
 ├── README.md
 ├── loan_approval_financial_risk_analysis.ipynb
 ├── loan_approval_financial_risk_analysis_report.pdf
